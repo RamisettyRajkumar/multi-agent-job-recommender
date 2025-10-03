@@ -1,0 +1,14 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Junior Data Engineer",
+      "description": "Work with SQL, Python, ETL pipelines, and cloud. Candidate should have strong communication skills."
+    },
+    {
+      "id": 2,
+      "title": "Frontend Developer (React)",
+      "description": "Build responsive UI with React, TypeScript and Figma handoffs. Experience with REST APIs."
+    }
+  ]
+}
